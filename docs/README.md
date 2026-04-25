@@ -2,7 +2,7 @@
 Portfolio用ページのリポジトリです  
 
 ## PinBall
-https://junya005.github.io/portfolio/game/PinBall/
+[こちらから遊べます](https://junya005.github.io/portfolio/game/PinBall/)
 ### 制作時間
 - 2時間
 
